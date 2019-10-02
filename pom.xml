@@ -6,6 +6,7 @@
     <groupId>com.designdreams</groupId>
     <artifactId>copass</artifactId>
     <version>1.0-SNAPSHOT</version>
+     <packaging>war</packaging>
 
 
     <parent>
